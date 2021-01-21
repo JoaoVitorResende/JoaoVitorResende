@@ -1,6 +1,6 @@
 # Portifólio
 
-* Sou um estudante de Ciencia da computação e tenho muita vontade de aprender ferramentas novas para contribuir para o mercado
+* Sou um estudante de Ciencia da computação e tenho muita vontade de aprender ferramentas novas, para contribuir para o mercado
 
 # Ferramentas aprendidas até o momento 
 
