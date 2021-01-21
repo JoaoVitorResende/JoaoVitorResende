@@ -1,6 +1,6 @@
 # Portifólio
 
-Sou um estudante de Ciencia da computação e tenho muita vontade de aprender ferramentas novas para contribuir para o mercado
+* Sou um estudante de Ciencia da computação e tenho muita vontade de aprender ferramentas novas para contribuir para o mercado
 
 # Ferramentas aprendidas até o momento 
 
@@ -22,3 +22,6 @@ Sou um estudante de Ciencia da computação e tenho muita vontade de aprender fe
  * Inglês - avançado
  * Francês - basico
 
+# Serviço Atual
+ 
+ * No momento estou trabalhando como programador junior no instituto senai de tecnologia 
