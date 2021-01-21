@@ -8,7 +8,7 @@
 * Flutter
 * C# - voltado a unity
 * Unity
-* Blender
+* Blender - modelagem 3D e Animações("principamente em animações de personagens")
 * Dart
 * C++ - voltado a unreal
 * Unreal Engine
