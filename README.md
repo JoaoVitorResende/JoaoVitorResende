@@ -24,4 +24,4 @@
 
 # Serviço Atual
  
- * No momento estou trabalhando como programador junior no instituto senai de tecnologia 
+ * No momento estou trabalhando como programador junior 
