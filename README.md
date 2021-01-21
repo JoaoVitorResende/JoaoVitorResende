@@ -1,4 +1,4 @@
-# Portifólio
+# Portfólio
 
 * Sou um estudante de Ciencia da computação e tenho muita vontade de aprender ferramentas novas, para contribuir para o mercado
 
