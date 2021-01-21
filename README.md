@@ -20,7 +20,6 @@
 # Idiomas
  * Portugês - fluente
  * Inglês - avançado
- * Francês - básico
 
 # Serviço Atual
  
