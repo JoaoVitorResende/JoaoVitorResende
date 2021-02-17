@@ -24,3 +24,9 @@
 # Serviço Atual
  
  * No momento estou trabalhando como programador junior 
+ 
+# Aprendendo no Momento 
+
+ * JavaScript
+ * React
+
