@@ -1,8 +1,8 @@
-# Portfólio
+# Portfolio
 
-* Sou um estudante de Ciencia da computação e tenho muita vontade de aprender ferramentas novas, para contribuir para o mercado
+* I'm a student from computer science,which wants to contribute to the market learning new programing tools
 
-# Ferramentas aprendidas até o momento 
+# Tools already learned
 
 * Java
 * Flutter
@@ -17,15 +17,15 @@
 * Realidade Mista
 * Realidade Virtual
 
-# Idiomas
+# languages
  * Portugês - fluente
  * Inglês - avançado
 
-# Serviço Atual
+# current service
  
- * No momento estou trabalhando como programador junior 
+ * my current position is junior developer
  
-# Aprendendo no Momento 
+# Leraning at the moment 
 
  * JavaScript
  * React
