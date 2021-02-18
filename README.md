@@ -21,10 +21,6 @@
  * Portugês - fluente
  * Inglês - avançado
 
-# current service
- 
- * my current position is junior developer
- 
 # Leraning at the moment 
 
  * JavaScript
