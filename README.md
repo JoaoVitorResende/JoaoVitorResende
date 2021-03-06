@@ -6,11 +6,11 @@
 
 * Java
 * Flutter
-* C# - voltado a unity
+* C# - unity
 * Unity
 * Blender - 3D modeling and character animations 
 * Dart
-* C++ - voltado a unreal
+* C++ - unreal
 * Unreal Engine
 * Hololens 1
 * Realidade aumentada
