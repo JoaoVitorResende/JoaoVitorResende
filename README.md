@@ -8,7 +8,7 @@
 * Flutter
 * C# - voltado a unity
 * Unity
-* Blender - modelagem 3D e Animações ("principamente em animações de personagens")
+* Blender - 3D modeling and character animations 
 * Dart
 * C++ - voltado a unreal
 * Unreal Engine
@@ -18,8 +18,8 @@
 * Realidade Virtual
 
 # languages
- * Portugês - fluente
- * Inglês - avançado
+ * Portugês - native
+ * Inglês - advanced
 
 # Leraning at the moment 
 
