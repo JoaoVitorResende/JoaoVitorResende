@@ -25,6 +25,9 @@
 
  * JavaScript
  * React
+ * Vue
+ * html
+ * css
 
 # country 
  * Brazil
