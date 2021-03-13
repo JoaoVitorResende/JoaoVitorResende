@@ -13,13 +13,13 @@
 * C++ - unreal
 * Unreal Engine
 * Hololens 1
-* Realidade aumentada
-* Realidade Mista
-* Realidade Virtual
+* Augmented reality
+* Mix reality
+* Virtual reality
 
 # languages
- * Portugês - native
- * Inglês - advanced
+ * Portuguese - native
+ * English - advanced
 
 # Leraning at the moment 
 
