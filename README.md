@@ -15,7 +15,6 @@
 * Hololens 1
 * Augmented reality
 * Mix reality
-* Virtual reality
 
 # languages
  * Portuguese - native
