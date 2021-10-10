@@ -12,7 +12,7 @@
 * Dart
 * C++ - unreal
 * Unreal Engine
-* Hololens 1
+* Mixed reality
 * Augmented reality
 * Mix reality
 
