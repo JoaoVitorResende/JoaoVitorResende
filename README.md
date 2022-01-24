@@ -22,12 +22,8 @@
 
 # Leraning at the moment 
 
- * JavaScript
- * React
- * Vue
- * html
- * css
+* JAVA
 
-# country 
+# Country 
  * Brazil
  
