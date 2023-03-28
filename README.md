@@ -13,6 +13,7 @@
 * C++ - unreal
 * Unreal Engine
 * Mixed reality
+* Virutal reality
 * Augmented reality
 * Mix reality
 
