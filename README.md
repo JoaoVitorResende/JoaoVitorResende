@@ -1,6 +1,6 @@
 # Portfolio
 
-* I'm a student from computer science,which wants to contribute to the market learning new programing tools
+* I'm a student from computer science, which wants to contribute to the market learning new programing tools
 
 # Tools already learned
 
@@ -23,7 +23,7 @@
 
 # Leraning at the moment 
 
-* JAVA
+* Getting better at unity 2D
 
 # Country 
  * Brazil
