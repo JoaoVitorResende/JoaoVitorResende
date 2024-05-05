@@ -23,7 +23,7 @@
 
 # Leraning at the moment 
 
-* Getting better at unity 2D
+* ruby on rails
 
 # Country 
  * Brazil
