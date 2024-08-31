@@ -21,10 +21,6 @@
  * Portuguese - native
  * English - advanced
 
-# Leraning at the moment 
-
-* ruby on rails
-
 # Country 
  * Brazil
  
