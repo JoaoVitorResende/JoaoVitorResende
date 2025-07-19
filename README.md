@@ -36,7 +36,11 @@ I'm a passionate and detail-oriented software developer with a love for building
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+
+### 🧰 IDEs & Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
 
 ### 🧠 Workflow & Methodologies
 ![Kanban](https://img.shields.io/badge/-Kanban-FF9E0F?logo=trello&logoColor=white&style=for-the-badge)
