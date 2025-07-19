@@ -41,6 +41,7 @@ I'm a passionate and detail-oriented software developer with a love for building
 ### 🧠 Workflow & Methodologies
 ![Kanban](https://img.shields.io/badge/-Kanban-FF9E0F?logo=trello&logoColor=white&style=for-the-badge)
 ![Agile](https://img.shields.io/badge/-Agile-FF6600?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge)
 ---
 
 ## 📈 GitHub Stats
