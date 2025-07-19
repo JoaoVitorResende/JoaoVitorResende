@@ -62,7 +62,7 @@ I'm a passionate and detail-oriented software developer with a love for building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?JoaoVitorResende&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorResende&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
