@@ -21,6 +21,7 @@ I'm a passionate and detail-oriented software developer with a love for building
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 
@@ -41,12 +42,18 @@ I'm a passionate and detail-oriented software developer with a love for building
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+
+### 🔍 Principles & Testing
+![SOLID](https://img.shields.io/badge/-SOLID-00BCD4?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/-Dependency%20Injection-673AB7?style=for-the-badge&logo=dependency-injection)
+![Unit Testing](https://img.shields.io/badge/-Unit%20Tests-4CAF50?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/-Integration%20Tests-2196F3?style=for-the-badge)
 
 ### 🧠 Workflow & Methodologies
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/-Kanban-FF9E0F?logo=trello&logoColor=white&style=for-the-badge)
 ![Agile](https://img.shields.io/badge/-Agile-FF6600?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge)
----
 
 ## 📈 GitHub Stats
 
