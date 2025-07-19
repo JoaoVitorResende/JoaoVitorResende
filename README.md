@@ -1,27 +1,52 @@
-# Portfolio
+<h1 align="center">Hi there! 👋 I'm João Vitor</h1>
 
-* I'm a student from computer science, which wants to contribute to the market learning new programing tools
+<p align="center">
+  🚀 Software Developer | 💡 Problem Solver | 🎮 Game Enthusiast
+</p>
 
-# Tools already learned
+---
 
-* Java
-* Flutter
-* C# - unity
-* C#.net
-* Unity
-* Blender - 3D modeling and character animations 
-* Dart
-* C++ - unreal
-* Unreal Engine
-* Mixed reality
-* Virutal reality
-* Augmented reality
-* Mix reality
+## 💻 About Me
 
-# languages
- * Portuguese - native
- * English - advanced
+I'm a passionate and detail-oriented software developer with a love for building robust backend systems, interactive applications, and scalable solutions. Whether it's web development, game dev, or database architecture, I love working across diverse technologies and pushing my skills forward.
 
-# Country 
- * Brazil
- 
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Oracle SQL](https://img.shields.io/badge/-OracleSQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+
+### 📦 Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jo%C3%A3o-vitor-resende-444030170/))
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my projects and drop a star if you find something cool.*
