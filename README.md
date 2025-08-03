@@ -77,7 +77,7 @@ I'm a passionate and detail-oriented software developer with a love for building
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jo%C3%A3o-vitor-resende-444030170/)])
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-resende-444030170)
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and drop a star if you find something cool.*
