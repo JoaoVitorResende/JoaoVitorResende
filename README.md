@@ -23,7 +23,7 @@ I'm a passionate and detail-oriented software developer with a love for building
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -43,6 +43,14 @@ I'm a passionate and detail-oriented software developer with a love for building
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+![Photon Unity](https://img.shields.io/badge/-Photon%20Unity-1A1A1A?logo=photon&logoColor=white&style=for-the-badge)
+![URP](https://img.shields.io/badge/-Unity%20URP-222222?logo=unity&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge)
+![3D Animation](https://img.shields.io/badge/-3D%20Animation-E91E63?style=for-the-badge)
+![Oculus Quest](https://img.shields.io/badge/-Oculus%20Quest-000000?logo=oculus&logoColor=white&style=for-the-badge)
+![Vuforia](https://img.shields.io/badge/-Vuforia-77B729?logo=vuforia&logoColor=white&style=for-the-badge)
+![ARCore](https://img.shields.io/badge/-Google%20ARCore-4285F4?logo=google&logoColor=white&style=for-the-badge)
 
 ### 🔍 Principles & Testing
 ![SOLID](https://img.shields.io/badge/-SOLID-00BCD4?style=for-the-badge)
