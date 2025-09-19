@@ -54,6 +54,8 @@ I'm a passionate and detail-oriented software developer with a love for building
 ![Oculus Quest](https://img.shields.io/badge/-Oculus%20Quest-000000?logo=oculus&logoColor=white&style=for-the-badge)
 ![Vuforia](https://img.shields.io/badge/-Vuforia-77B729?logo=vuforia&logoColor=white&style=for-the-badge)
 ![ARCore](https://img.shields.io/badge/-Google%20ARCore-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Microsoft HoloLens](https://img.shields.io/badge/-Microsoft%20HoloLens-0078D7?logo=microsoft&logoColor=white&style=for-the-badge)
+
 
 ### 🔍 Principles & Testing
 ![SOLID](https://img.shields.io/badge/-SOLID-00BCD4?style=for-the-badge)
