@@ -8,7 +8,11 @@
 
 ## 💻 About Me
 
-I'm a passionate and detail-oriented software developer with a love for building robust backend systems, interactive applications, and scalable solutions. Whether it's web development, game dev, or database architecture, I love working across diverse technologies and pushing my skills forward.
+Turning code into experiences people can walk through, touch, and learn from.
+I'm a Software Engineer and Game Developer with 7 years of experience building games and interactive applications across Desktop, Mobile, WebGL, VR, AR, and MR — specializing in C#, Unity, and ASP.NET Core. My work has ranged from immersive industrial training simulators to full-stack web applications, always with a strong focus on performance optimization, clean architecture, and code quality.
+On the technical side, I work primarily with Unity, C#, ASP.NET Core, and REST API development, backed by database management in MySQL and 3D modeling/animation in Blender. I also bring working knowledge of Vue.js, Angular, React, HTML, and CSS, applying software design principles like MVC and Domain-Driven Design (DDD) to build solutions that scale.
+What keeps me energized is solving hard technical problems alongside cross-functional teams — developers, designers, 3D artists — and shipping software that's reliable, maintainable, and genuinely useful to the people who touch it. I'm always learning, and I care as much about how code is built as what it does.
+Currently open to new opportunities in game development, VR/AR/MR, or full-stack engineering — feel free to reach out.
 
 ---
 
