@@ -8,11 +8,11 @@
 
 ## 💻 About Me
 
-For the past 7 years, I've built interactive 3D applications and simulators with Unity and C# — from industrial VR/AR training tools to full-stack systems — for companies modernizing how people learn and work.
+For the past 7 years, I've built interactive 3D applications and simulators with Unity and C# from industrial VR/AR training tools to full-stack systems  for companies modernizing how people learn and work.
 
 I'm a Software Engineer specializing in Unity/C# development, with growing hands-on expertise in ASP.NET Core, React, and TypeScript for full-stack web engineering.
 
-I care about writing software that performs well and doesn't turn into a mess six months later — same mindset whether it's a VR simulation or a web API.
+I care about writing software that performs well and doesn't turn into a mess six months later  same mindset whether it's a VR simulation or a web API.
 
 My stack: Unity (Desktop, Mobile, WebGL, VR/AR/MR) · C# · ASP.NET Core · React · TypeScript · MySQL · Blender (3D pipeline support) · NetCode for Unity, Photon Engine, URP/BRP.
 
