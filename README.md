@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-For the past 7 years, I've built interactive 3D applications and simulators with Unity and C# from industrial VR/AR training tools to full-stack systems  for companies modernizing how people learn and work.
+For the past 7 years, I've built interactive 3D applications and simulators with Unity and C# from industrial VR/AR training tools for companies modernizing how people learn and work.
 
 I'm a Software Engineer specializing in Unity/C# development, with growing hands-on expertise in ASP.NET Core, React, and TypeScript for full-stack web engineering.
 
