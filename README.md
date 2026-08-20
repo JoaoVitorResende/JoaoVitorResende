@@ -30,7 +30,7 @@ I'm always learning, and currently focused on growing as a Full Stack / Backend 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 
 ### 🗃️ Databases
@@ -59,6 +59,7 @@ I'm always learning, and currently focused on growing as a Full Stack / Backend 
 ![Vuforia](https://img.shields.io/badge/-Vuforia-77B729?logo=vuforia&logoColor=white&style=for-the-badge)
 ![ARCore](https://img.shields.io/badge/-Google%20ARCore-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![Microsoft HoloLens](https://img.shields.io/badge/-Microsoft%20HoloLens-0078D7?logo=microsoft&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ### 🔍 Principles & Testing
