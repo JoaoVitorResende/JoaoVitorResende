@@ -30,7 +30,9 @@ I'm always learning, and currently focused on growing as a Full Stack / Backend 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+
 
 
 ### 🗃️ Databases
@@ -60,7 +62,7 @@ I'm always learning, and currently focused on growing as a Full Stack / Backend 
 ![ARCore](https://img.shields.io/badge/-Google%20ARCore-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![Microsoft HoloLens](https://img.shields.io/badge/-Microsoft%20HoloLens-0078D7?logo=microsoft&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 
 
 
