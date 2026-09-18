@@ -4,6 +4,10 @@
   🚀 Software Developer | 💡 Problem Solver | 🎮 Game Enthusiast
 </p>
 
+<p align="center">
+  <img src="./dm95tk1-aa0105d7-a2b8-45af-857b-f57bac8fbb08.gif" width="400" alt="Animation" />
+</p>
+
 ---
 
 ## 💻 About Me
