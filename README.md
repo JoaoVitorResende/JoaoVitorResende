@@ -4,10 +4,6 @@
   🚀 Software Developer | 💡 Problem Solver | 🎮 Game Enthusiast
 </p>
 
-<p align="center">
-  <img src="./dm95tk1-aa0105d7-a2b8-45af-857b-f57bac8fbb08.gif" width="800" alt="Animation" />
-</p>
-
 ---
 
 ## 💻 About Me
@@ -101,5 +97,5 @@ I'm always learning, and currently focused on growing as a Full Stack / Backend 
 
 
 <p align="center">
-  <img src="./aha-instant-silver-wolf-lv-999-v0-nynk5ulrr5og1.gif" width="400" alt="Animation" />
+  <img src="./aha-instant-silver-wolf-lv-999-v0-nynk5ulrr5og1.gif" width="50" alt="Animation" />
 </p>
