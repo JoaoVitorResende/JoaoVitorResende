@@ -92,4 +92,10 @@ I'm always learning, and currently focused on growing as a Full Stack / Backend 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-resende-444030170)
 ---
 
+
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and drop a star if you find something cool.*
+
+
+<p align="center">
+  <img src="./aha-instant-silver-wolf-lv-999-v0-nynk5ulrr5og1.gif" width="400" alt="Animation" />
+</p>
