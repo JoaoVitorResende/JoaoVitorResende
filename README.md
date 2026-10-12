@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! 👋 I'm João Vitor</h1>
+<h1 align="center">Hi there!  I'm João Vitor</h1>
 
 <p align="center">
-  🚀 Software Developer | 💡 Problem Solver | 🎮 Game Enthusiast
+   Software Developer |  Problem Solver 
 </p>
 
 
