@@ -45,7 +45,8 @@
 ![Microsoft HoloLens](https://img.shields.io/badge/-Microsoft%20HoloLens-0078D7?logo=microsoft&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
-
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(Floci)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
