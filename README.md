@@ -61,9 +61,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorResende&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorResende&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
+
 ---
 
 ## 📫 Let's Connect!
+
+---
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-resende-444030170)
 ---
