@@ -33,7 +33,6 @@
 ### 🧰 IDEs & Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
