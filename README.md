@@ -1,82 +1,42 @@
-<h1 align="center">Hi there!  I'm João Vitor</h1>
+# Hi, I'm João Vitor Resende
 
-<p align="center">
-   Software Developer |  Problem Solver 
-</p>
+Backend developer with 7 years of experience in C#. I spent most of that time building interactive VR/AR/MR systems with Unity, and today I focus on backend: APIs in **ASP.NET Core** and **Go**, microservices, messaging with RabbitMQ, Docker and AWS.
 
+## Featured projects
 
-## 🛠️ Tech Stack
+| Project | What it shows | Stack |
+|---|---|---|
+| [bookshare-architecture](https://github.com/JoaoVitorResende/bookshare-architecture) | Book-sharing platform designed as microservices: CQRS, Outbox pattern, API gateway, JWT | Go, RabbitMQ, PostgreSQL, Redis, Docker |
+| [Purchase-api](https://github.com/JoaoVitorResende/Purchase-api) + [StoreApi](https://github.com/JoaoVitorResende/StoreApi) | Two services that confirm or reject purchases through events, with idempotent stock deduction and SQS/Lambda notifications | ASP.NET Core, MassTransit, RabbitMQ, PostgreSQL, MongoDB, AWS |
+| [RabbitIntegration](https://github.com/JoaoVitorResende/RabbitIntegration) | Asynchronous report processing with tests, CI and an ECS deploy guide | .NET 8, RabbitMQ, PostgreSQL, xUnit, GitHub Actions |
+| [CashFlow2026](https://github.com/JoaoVitorResende/CashFlow2026) | Expense management API built with DDD, validation and PDF/Excel reports | .NET 8, EF Core, MySQL |
 
+## Tech stack
 
-### 👨‍💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+**Backend:**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
-
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
-
-### 🧰 IDEs & Tools
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
+**Messaging and cloud:**
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(Floci)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🔍 Principles & Testing
-![SOLID](https://img.shields.io/badge/-SOLID-00BCD4?style=for-the-badge)
-![Dependency Injection](https://img.shields.io/badge/-Dependency%20Injection-673AB7?style=for-the-badge&logo=dependency-injection)
-![Unit Testing](https://img.shields.io/badge/-Unit%20Tests-4CAF50?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/-Integration%20Tests-2196F3?style=for-the-badge)
+**Practices:** DDD, Clean Architecture, SOLID, CQRS, unit and integration tests.
 
-### 🧠 Workflow & Methodologies
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge)
-![Kanban](https://img.shields.io/badge/-Kanban-FF9E0F?logo=trello&logoColor=white&style=for-the-badge)
-![Agile](https://img.shields.io/badge/-Agile-FF6600?style=for-the-badge)
+## Contact
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorResende&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorResende&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorResende&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-
-
----
-
-## 📫 Let's Connect!
-
----
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-resende-444030170)
----
-
-
-⭐️ *Thanks for visiting my profile! Feel free to check out my projects and drop a star if you find something cool.*
-
+[LinkedIn](https://www.linkedin.com/in/joaovitor98)
