@@ -1,7 +1,6 @@
 # Hi, I'm João Vitor Resende
 
 Backend developer with 7 years of experience in C#. I spent most of that time building interactive VR/AR/MR systems with Unity, and today I focus on backend: APIs in **ASP.NET Core** and **Go**, microservices, messaging with RabbitMQ, Docker and AWS.
-
 ## Featured projects
 
 | Project | What it shows | Stack |
